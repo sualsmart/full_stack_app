@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend:install": "cd reactnd-contacts-complete && npm install",
+    "backend:install": "cd reactnd-contacts-server && npm install",
+    "frontend:build": "cd reactnd-contacts-complete && npm run build",
+    "backend:build": "cd reactnd-contacts-server && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sualsmart: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@github.com/sualsmart/full_stack_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sualsmart/full_stack_app/issues"
+  },
+  "homepage": "https://github.com/sualsmart/full_stack_app#readme"
+}
